@@ -1,4 +1,4 @@
-# GitHub PR Fetcher
+# Impact - A GitHub PR Fetcher
 
 A Python script to fetch and list your Pull Requests from GitHub repositories within a specified date range.
 
