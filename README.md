@@ -61,7 +61,7 @@ REPOS=owner/repo1,owner/repo2,owner/repo3
   
 - `REPOS`: Comma-separated list of repositories to scan (optional)
   - Format: `owner/repository-name`
-  - Example: `leninmehedy/impact,facebook/react,microsoft/vscode`
+  - Example: `leninmehedy/impact,leninmehedy/another-repo`
   - If not provided, the script will scan all repositories you have access to (this may be slow)
 
 ## Usage
